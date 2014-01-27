@@ -24,6 +24,10 @@ body {
   font-family: 'Source Sans Pro', "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 }
 
+.ui.secondary.menu > .header.item {
+  font-size: 1.5rem;
+}
+
 .ui.header,
 h1,
 h2 {
